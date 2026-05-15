@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🖐🏽, Its Naoya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=4A7345&width=500&center=true&lines=Discord+Bot+Dev;Tool+%26+Automation;Front-End+Web+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=78AB72&width=500&center=true&lines=Discord+Bot+Dev;Tool+%26+Automation;Front-End+Web+Dev" alt="Typing SVG" />
 </p>
 
 ---
