@@ -1,13 +1,13 @@
-<h1>Hi 👋, Its Naoya</h1>
+<h1 align="center">Hi 👋, I'm Naoya</h1>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00008B&width=500&lines=I+develop+tools;I+make+Discord+bots;I+create+websites" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00008B&width=500&lines=Discord+Bot+Dev;Tool+%26+Automation;Front-End+Web+Dev" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🛠 Languages & Technologies
-<p>
+<p align="center">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
@@ -21,7 +21,7 @@
 ---
 
 ## 📫 Contact Me
-<p>
+<p align="center">
   <a href="https://github.com/Naoya">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
