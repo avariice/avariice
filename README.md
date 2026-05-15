@@ -19,8 +19,11 @@
   <img alt="Discord.js" src="https://img.shields.io/badge/-discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" />
 </p>
 
+---
+
+## 👨‍💻 About Me
 <p align="center">
-  I'm Naoya, a 16-year-old developer with over 3 and a half years of coding experience.  
+  👋 Hello! I'm Naoya, a 16-year-old developer with over 3 and a half years of coding experience.  
   I’m deeply passionate about programming and technology, and I love creating projects that are both fun and useful.  
   My work ranges from building **Discord bots**, developing **tools and automation scripts**, designing **websites**, and even experimenting with **cheats** for learning and testing purposes.  
   I enjoy learning new technologies, improving my skills, and exploring creative ways to solve problems.  
