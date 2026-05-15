@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Naoya</h1>
+<h1 align="center">It's Naoya 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF00&width=500&lines=Passionate+Developer;Always+Curious;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00008B&width=500&lines=Passionate+Developer;Always+Curious;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,9 +20,9 @@
 
 ---
 
-## 📫 Connect with me
+## 📫 Contact Me
 <p align="center">
-  <a href="https://github.com/Naoya">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://discord.gg/metBhywtd3">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
