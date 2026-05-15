@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🖐🏽, Its Naoya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00008B&width=500&center=true&lines=Discord+Bot+Dev;Tool+%26+Automation;Front-End+Web+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=4A7345&width=500&center=true&lines=Discord+Bot+Dev;Tool+%26+Automation;Front-End+Web+Dev" alt="Typing SVG" />
 </p>
 
 ---
@@ -29,4 +29,4 @@
   <a href="https://discord.gg/metBhywtd3">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-</p>
+</p> 
