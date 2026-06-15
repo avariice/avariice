@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="25" /> &nbsp; About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Le+%C3%A0+meilleur%2C+de+sa+génération+." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Le+meilleur+de+sa+g%C3%A9n%C3%A9ration." alt="Typing SVG" />
 
 ---
 
@@ -20,7 +20,5 @@
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" /> &nbsp; Github Stats
-
-![Avarice' GitHub Stats](https://github-readme-stats.vercel.app/api?username=avariice&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avariice&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
